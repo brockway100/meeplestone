@@ -1,0 +1,101 @@
+Name,Health,Strength,Melee,Ranged,Defense,VPs,Loyalty,Luck
+Agrus Kos,1,5,5,4,3,6,1,6
+Garruk Wildspeaker,1,4,1,5,3,2,6,6
+Auratouched Mage,4,3,4,6,1,8,3,4
+Barbarian Riftcutter,2,2,5,3,9,6,1,5
+Boros Guildmage,2,6,4,2,1,3,7,4
+Boros Recruit,4,6,2,3,3,1,5,2
+Boros Swiftbalde,3,3,5,4,4,5,4,7
+Caregiver,3,5,3,6,1,7,5,9
+Centaur Safeguard,6,2,3,7,5,7,1,2
+"Circu, Dimir Lobotomist",5,5,1,3,6,1,4,4
+Civic Wayfinder,8,4,2,1,4,5,5,5
+Conclave Equenaut,1,4,3,4,7,6,5,7
+Conclave Phalanx,5,5,4,3,2,8,5,4
+Dark Confidant,2,2,5,3,5,4,7,3
+Dimir Guildmage,2,4,2,8,8,3,1,4
+Dimir House Guard,6,1,2,8,5,7,3,6
+Dimir Infiltrator,3,8,3,5,4,3,2,6
+Dowsing Shaman,4,1,5,5,7,8,3,5
+Golgari Thug,4,5,5,4,4,5,3,8
+Hammerfist Giant,4,6,4,5,3,1,3,2
+Ivy Dancer,2,5,7,3,4,1,4,8
+Elves of Deep Shadow,5,4,4,4,2,9,6,2
+Elvish Skysweeper,5,3,4,5,2,5,6,5
+Frenzied Goblin,5,2,6,3,8,2,2,8
+Goblin Fire Fiend,9,2,2,2,5,3,6,3
+Goblin Spelunkers,5,6,3,1,6,4,5,7
+Golgari Guildmage,4,3,7,2,6,8,4,5
+Lore Broker,4,4,7,5,1,6,5,4
+Lurking Informant,3,4,6,3,3,7,7,9
+Nightguard Patrol,5,5,3,5,5,3,4,4
+Nullmage Shepard,6,4,6,2,5,5,4,9
+Oathsworn Giant,6,4,4,5,4,2,4,7
+Sadistic Augermage,4,3,5,7,5,5,3,8
+Savra - Golgari Queen,5,7,5,1,5,5,5,1
+Selesnya Evangel,7,5,4,2,4,4,6,1
+Selesnya Guildmange,4,7,6,4,3,4,4,7
+Selesnya Sagittars,3,4,9,6,4,4,2,5
+Sell-Sword Brute,3,3,5,6,6,4,5,7
+Skyknight Legionnaire,3,6,8,4,2,5,5,3
+Sparkmage Apprentice,8,6,5,4,2,9,4,1
+Spawnbroker,3,6,5,6,6,4,3,5
+Stone-Seeder Hierophant,2,7,4,5,7,3,4,8
+Stoneshaker Shaman,4,7,9,3,4,8,2,5
+Sunhome Enforcer,1,7,7,6,4,4,4,5
+Terraformer,5,4,6,4,3,7,7,5
+Thoughtpicker Witch,7,8,5,3,5,4,2,3
+Thundersong Trumpeter,7,4,3,2,7,5,7,5
+Tolsimir Wolfblood,7,5,1,5,5,3,7,6
+Trophy Hunter,5,1,8,7,6,4,3,3
+Vedalken Dismisser,6,7,3,3,4,4,7,7
+Vedalken Entrancer,5,3,6,4,5,2,7,3
+Veteran Armorer,5,3,6,9,2,7,5,2
+Vindictive Mob,5,3,4,7,3,9,8,8
+Votary of the Conclave,7,5,3,5,7,6,4,5
+Wojek Apothecary,8,5,3,6,5,5,4,6
+Wojek Embermage,5,5,6,7,6,5,2,6
+Armory Guard,4,7,8,4,5,7,3,2
+Ash Zealot,8,2,6,4,5,6,6,5
+Axebane Guardian,5,3,5,5,7,7,6,4
+Azorius Arrester,6,6,4,6,3,7,6,8
+Azorius Justiciar,4,4,3,7,6,3,7,6
+Azor's Elocutors,4,3,6,5,6,4,7,9
+Bloodfray Giant,6,2,6,5,4,5,8,7
+Centaur's Herald,2,6,4,6,4,7,9,5
+Crosstown Courier,7,9,5,3,4,3,4,5
+Deathrite Shaman,5,5,7,9,3,6,3,3
+Fencing Ace,9,8,3,5,2,7,6,4
+Golgari Decoy,8,5,6,3,5,5,6,5
+Gore-House Chainwalker,6,5,8,4,5,6,5,7
+Hussar Patrol,3,6,5,5,5,9,9,6
+Isperia's Skywatch,5,5,5,6,3,6,9,7
+Izzet Staticaster,6,7,8,1,9,6,3,6
+Korozda Guildmage,7,6,4,6,5,3,6,3
+Lyev Skyknight,7,6,3,4,6,6,8,6
+Mercurial Chemister,6,8,4,5,4,3,7,5
+New Prahv Guildmage,6,5,7,8,3,2,5,4
+Nivix Guildmage,4,7,7,5,5,7,6,3
+Oak Street Innkeeper,5,8,6,6,3,6,6,7
+Palisade Giant,4,3,7,6,7,4,7,5
+Precinct Captain,7,6,4,7,7,4,4,2
+Rakdos Shred-Freak,6,6,7,8,6,6,2,3
+Rix Maadi Guildmage,6,4,7,6,7,6,5,4
+Seller of Songbirds,6,4,5,8,4,2,8,5
+Splatter Thug,8,7,1,9,6,5,5,7
+Stealer of Secrets,7,8,6,4,6,4,5,4
+Tavern Swindler,4,9,5,7,7,3,4,6
+Thrill-Kill Assassin,3,9,7,7,7,5,3,6
+Voidwielder,6,9,5,4,6,3,6,4
+Wild Beastmaster,6,4,8,5,8,7,5,1
+Agent of Masks,3,7,2,7,9,5,8,4
+Crystal Seer,3,5,6,8,8,8,6,6
+Droning Bureaucrats,9,7,2,5,9,5,5,5
+Gatherer of Graces,3,6,7,6,8,2,7,6
+Gruul Guildmage,7,1,7,7,7,5,8,3
+Gruul Scrapper,5,3,6,6,8,5,9,3
+Izzet Chronarch,7,5,9,7,5,4,5,6
+Izzet Guildmage,8,6,8,2,6,5,8,4
+Lionheart Maverick,9,5,5,9,8,6,3,4
+Order of the Stars,7,8,4,8,7,6,5,7
+Orzhov Euthanist,5,7,9,7,6,8,6,3
